@@ -50,3 +50,8 @@ FROM products;
 SELECT AVG(price) AS avg_price
 FROM products
 WHERE category = 'Electronics';
+
+--Maximum and Minimum price
+SELECT MAX(price) AS max_price,
+  		MIN(price) AS min_PRice
+FROM product;
