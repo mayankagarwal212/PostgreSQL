@@ -7,4 +7,5 @@ INSERT INTO employee(first_name, last_name, position, department, hire_date, sal
 		('Rajesh', 'Kumar', 'HR Manager', 'Human Resources', '2021-09-10', 82000.00),
 		('Sneha', 'Patel', 'Marketing Specialist', 'Marketing', '2023-05-15', 59000.91),
 		('Vikram', 'Singh', 'Sales Executive', 'Sales', '2024-02-12', 62000.72),
+		('Vijay', 'Kumar', 'Asociate HR', 'Human Resources', '2022-09-18', 56000.02),
 		('Khushi', 'Singh', 'Software Engineer', 'IT', '2027-01-01', 36000.76);
