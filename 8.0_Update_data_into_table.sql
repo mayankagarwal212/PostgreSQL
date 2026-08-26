@@ -35,11 +35,11 @@ SELECT * FROM user1 ORDER BY user_id ASC;
 
 UPDATE user1 
 SET city = 'Chennai' 
-WHERE city = 'Delhi';
+WHERE city = 'Dharadun';
 
 UPDATE user1 
 SET age = 30, city = 'Hyderabad' 
-WHERE first_name = 'Priya';
+WHERE first_name = 'Priyanka';
 
 --We can use LIKE in this
 UPDATE user1 
